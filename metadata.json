@@ -1,0 +1,6 @@
+{
+  "name": "온길 (Ongil) — AI 진로 상담 및 커리어 설계",
+  "description": "대학생과 취업 준비생을 위한 AI 성향 진단, 심층 진로 상담, 단계별 커리어 설계 웹서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
